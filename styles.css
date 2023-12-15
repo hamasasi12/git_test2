@@ -1,16 +1,5 @@
-.hamas {
-  font-weight: bold;
-}
-
-#list {
-  color: brown;
-}
-
-#MainPre {
-  color: blue;
-}
-
-#hamas {
-  color: red;
-  font-weight: bold;
+.table,th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 9px;
 }
