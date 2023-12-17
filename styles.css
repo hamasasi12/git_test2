@@ -1,5 +1,4 @@
-.table,th,td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  margin-top: 9px;
+.header {
+  color: red;
+  font-size: large;
 }
